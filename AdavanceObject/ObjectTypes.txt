@@ -1,0 +1,24 @@
+---12/16/2019---1
+
+
+JavaScript Object Types...
+1. Object 
+2. String
+3. Array 
+4. Number 
+5. Boolean
+
+
+
+Formate of valid JavaScript Object is JSON...
+1. Simple JSON 
+2. Array Types JSON 
+
+
+
+Advance Object Are...
+1. Set(Value of Key will be always unique) new Set([args]);
+2. Map  
+     nes Map([args])...Key must unique
+3. WeakSet 
+4. WeakMap..
